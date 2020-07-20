@@ -21,9 +21,9 @@ This project uses the Gradle build system. To build this code, use the
 # Links
 
 - [Exposure Notifications System: Helping Health Authorities fight SARS-CoV-2](https://youtu.be/1Cz2Xzm6knM)
-- [Overview of COVID-19 Exposure Notifications](https://www.blog.google/documents/66/Overview_of_COVID-19_Contact_Tracing_Using_BLE_1.pdf)
+- [Overview of SARS-CoV-2 Exposure Notifications](https://www.blog.google/documents/66/Overview_of_COVID-19_Contact_Tracing_Using_BLE_1.pdf)
 - [Frequently Asked Questions](https://www.blog.google/documents/63/Exposure_Notification_-_FAQ_v1.0.pdf)
 - [Exposure Notification Bluetooth Specification](https://www.blog.google/documents/70/Exposure_Notification_-_Bluetooth_Specification_v1.2.2.pdf)
 - [Exposure Notification Cryptography Specification](https://www.blog.google/documents/69/Exposure_Notification_-_Cryptography_Specification_v1.2.1.pdf)
-- [Android Exposure Notifications API](https://static.googleusercontent.com/media/www.google.com/en//covid19/exposurenotifications/pdfs/Android-Exposure-Notification-API-documentation-v1.3.2.pdf)
+- [Android Exposure Notifications API](https://developers.google.com/android/exposure-notifications/exposure-notifications-api)
 - [Exposure Key Export and File Format](https://developers.google.com/android/exposure-notifications/exposure-key-file-format)
